@@ -16,7 +16,7 @@ A simple Morpion (Tic-Tac-Toe) game written in Go.
 
 This project is a basic implementation of the Morpion (Tic-Tac-Toe) game in the Go programming language. The goal of this project is to learn the fundamentals of Go while creating a playable terminal-based game. 
 
-The code follows the structure and logic taught in the tutorials from [Devopssec](https://devopssec.fr), which provide detailed instructions on how to build a Morpion game step by step using Go.
+The code follows the structure and logic taught in the tutorials from [Devopssec](https://devopssec.fr/article/cours-apprendre-langage-programmation-go), which provide detailed instructions on how to build a Morpion game step by step using Go.
 
 ## Getting Started
 
