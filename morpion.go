@@ -80,7 +80,7 @@ func main() {
 
 				}
 			case 4:
-				if morpion[1][0] != "X" && morpion[1][2] != "O" {
+				if morpion[1][0] != "X" && morpion[1][0] != "O" {
 					morpion[1][0] = caractere
 					passage = 1
 				} else {
